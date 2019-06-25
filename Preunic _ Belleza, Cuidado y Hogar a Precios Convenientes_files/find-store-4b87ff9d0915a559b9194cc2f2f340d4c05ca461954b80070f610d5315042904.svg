@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="13px" height="16px" viewBox="0 0 13 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46 (44423) - http://www.bohemiancoding.com/sketch -->
+    <title>Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Home-//-Desktop-HD-Copy-2" transform="translate(-1280.000000, -7.000000)" fill-rule="nonzero" fill="#C6C6C6">
+            <g id="Pre-Navbar">
+                <g id="Shape">
+                    <path d="M1286.5,7 C1282.91009,7 1280,10.0397615 1280,13.7440447 C1280,15.5962761 1280.72778,17.2682525 1281.90402,18.5237593 L1281.90385,18.5237593 L1286.5,23 L1291.13874,18.4227807 L1291.13943,18.4139922 C1292.29029,17.2038629 1293,15.5408544 1293,13.7115809 C1293,10.007477 1290.08991,7 1286.5,7 Z M1286.54346,16.3899358 C1285.10753,16.3899358 1283.94346,15.1889538 1283.94346,13.707097 C1283.94346,12.2252402 1285.10753,11.0242582 1286.54346,11.0242582 C1287.97938,11.0242582 1289.14346,12.2254195 1289.14346,13.707097 C1289.14346,15.1887744 1287.97938,16.3899358 1286.54346,16.3899358 Z"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

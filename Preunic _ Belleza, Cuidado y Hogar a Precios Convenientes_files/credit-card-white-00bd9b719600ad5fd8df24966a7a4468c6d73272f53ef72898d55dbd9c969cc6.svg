@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="92px" height="61px" viewBox="0 0 92 61" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>tarjeta-credito</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="tarjeta-credito" fill="#FFFFFF">
+            <path d="M6.23672083,1.68539326 C4.01416016,1.68539326 1.69172932,3.98596191 1.69172932,6.22704851 L1.69172932,54.7729515 C1.69172932,57.0219727 4.01831055,59.3146067 6.23672083,59.3146067 L85.7632792,59.3146067 C88.0554199,59.3146067 90.3082707,56.9886475 90.3082707,54.7729515 L90.3082707,6.22704851 C90.3082707,3.97033691 88.0053711,1.68539326 85.7632792,1.68539326 L6.23672083,1.68539326 Z M6.23672083,0 L85.7632792,0 C89.20815,0 92,2.78876744 92,6.22704851 L92,54.7729515 C92,58.2112326 89.20815,61 85.7632792,61 L6.23672083,61 C2.79185002,61 0,58.2112326 0,54.7729515 L0,6.22704851 C0,2.78876744 2.79185002,0 6.23672083,0 Z" id="Stroke-1" fill-rule="nonzero"></path>
+            <polygon id="Fill-3" points="0 24 92 24 92 14 0 14"></polygon>
+        </g>
+    </g>
+</svg>
