@@ -1,7 +1,7 @@
 ﻿# TAREA 4 PARTE 1
  
- Se realizara la confeccion de una pag "html" la cual tendra una noticia a gusto del creador 
- en mi caso la noticia que contiene la pag es una imagen de la seleccion de femenina 
+ Se realizara la confección de una pag "html" la cual tendra una noticia a gusto del creador 
+ en mi caso la noticia que contiene la pag es una imagen de la selección de femenina 
  la noticia tiene relación con la clasificacion al mundia femenino 
  ademas se confeccionó una tabla la cual compara precios de dos supermercados a mi elección 
  LIDER & UNIMARC 
